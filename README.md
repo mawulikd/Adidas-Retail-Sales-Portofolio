@@ -22,24 +22,6 @@ Dataset Description
 We will be using Adidas Retail Sales Dashboard.xlsx Dataset attached.
 
 * Sales Dashboard which covers sales data for various retail outlets in USA;
-Within this file you will find the following fields:
-
-Field 	                                          Description
-
-Retailer	                                    Name of the retailer
-Retailer ID	                                  Unique ID of the retailer
-Invoice Date	                                Date sale was completed
-Region                                        Geographical part of USA sale was done
-State                                         Unique state name where sale took place
-City	                                        Unique city name where sale was done
-Product	                                      Type of Product
-Price per unit	                              Price at which each unit of product is sold 
-Units Sold	                                  Total amount of products sold per transaction
-Total Sales	                                  Product of price per unit and units sold
-Operating Profit	                            Financial advantage or reward obttained from sale
-Operating Margin                              Amount gained on each dollar invested by the retailer to buy the product from wholesale
-Sales Method	                                Medium thriugh whic sale took place
-
 
 Analysis Procedure
 
