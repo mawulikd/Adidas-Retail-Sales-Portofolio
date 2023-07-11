@@ -11,7 +11,7 @@ Retail is a key part of any multinational's supply chain. Majority of sales goes
 
 Objective   
 
-Adidas wants to design  sales dashboard to analyze retail sales between 2020 and 2021. 
+Adidas wants to design  sales dashboard to analyze retail sales from 2020 to 2021. 
 The top executives want to have control over duration of the sales data collected(years).  
 Executives can select a sales year and can see the trend month-wise.
   
