@@ -27,7 +27,7 @@ Analysis Procedure
 
 Use the Saved Adidas Retail Sales database.    
     Copy raw data to another sheet-'Clean data' to remove duplicates and assign right data type to columns.
-    Create another sheet-‘Working Sheet’ for pivot table analyses and drawing of charts.    
+    Create another sheet-‘Pivot’ for pivot table analyses and drawing of charts.    
     Copy all pivot charts to another worksheet-'Dashboard'     
     Create a slicer for the two sales years and link all the necesary charts.
     Arrange all charts in the 'Dashboard' sheet and create a dashboard  
