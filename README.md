@@ -9,7 +9,7 @@ Background
 
 Retail is a key part of any multinational's supply chain. Majority of sales goes down at the retail shops becasue of the ease of accesibility. Adidas is one of the biggest sports wear brand in the world with fierce competition from Nike and other popular sports wear brands Tracking sales at the retail outlets will give adidas a fair idea of how thier retail market performed from 2020 to 2021.
 
-Objective
+Objective   
 
 Adidas wants to design  sales dashboard to analyze retail sales between 2020 and 2021. 
 The top executives want to have control over duration of the sales data collected(years).  
