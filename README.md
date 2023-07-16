@@ -1,4 +1,4 @@
-Business Analytics With Excel
+Business Analytics With Excel and SQL
 -----------------------------------
 Adidas Sales Dashboard
 -----------------------------------
@@ -31,4 +31,11 @@ Use the Saved Adidas Retail Sales database.
     Copy all pivot charts to another worksheet-'Dashboard'     
     Create a slicer for the two sales years and link all the necesary charts.
     Arrange all charts in the 'Dashboard' sheet and create a dashboard  
-    
+
+
+US Retail Sales Summary 2017-2020
+-----------------------------------
+File name 'STORES.sql'
+
+This an SQL project to analyze key metrics such as revenue,profit,revenue in stock, effects of price on revenue in stcock etc.
+Data contains sales, product and inventory information about various retail outlets in the united states.
