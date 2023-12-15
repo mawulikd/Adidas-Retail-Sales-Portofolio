@@ -37,7 +37,7 @@ US Retail Sales Summary 2017-2020
 -----------------------------------
 File name 'STORES.sql'
 
-This an SQL project to analyze key metrics such as revenue,profit,revenue in stock, effects of price on revenue in stcock etc.
+This an SQL project to analyze key metrics such as revenue,profit,revenue in stock, effects of price on revenue in stock etc.
 Data contains sales, product and inventory information about various retail outlets in the united states.
 
 *Visualization was done in Tableau*: https://public.tableau.com/views/USRETAILSALESSUMMARY2017-2020/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
